@@ -3,3 +3,5 @@
  -feature-A
  - fix-B 
  -feature-C
+<br>
+ <em>fix -D</em>
